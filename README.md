@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @SCRRS
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+SCRRS/SCRRS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Olá estou interessad em novas ferramentas que possam me auxiliar dentro da vida academica
+Atualmente estou aprendendo Algoritmos e estrutura de dados, dentro do Curso de Engenharia Ambiental e Sanitária.
+Você pode me contactar diretamente por este programa/
